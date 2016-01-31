@@ -27,28 +27,13 @@
             </div>
         </div>
         <div class="container">
-            <div class="jumbotron">
-                <h1>Learn Bootstrap</h1>
-                <p>Bootstrap is an open source css and js framework by Twitter that lets you make responsive websites (like the one you're on). Betafish was actually built on Bootstrap, and you can learn how to make a web site like it.</p>
-                <a class="btn btn-info btn-lg" href="bootstrap.html">Teach me!</a>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3">
-                    <h3>Codecademy</h3>
-                    <p>Codecademy is a great website where you can learn programming and scripting languages like Ruby and JavaScript. With the interactive code editor, it's easy to learn any language you want.</p>
-                    <a class="btn btn-info btn-lg" href="https://www.codecademy.com/">Take me there!</a>
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <h3></h3>
                 </div>
-                <div class="col-md-4">
-                    <h3>Betafish is now online! <a class="glyphicon glyphicon-globe"></a></h3>
-                    <p>Yay! Finaly, betafish is now online!!</p>
+                <div class="panel-body">
+                    <p></p>
                 </div>
-                <div class="col-md-4">
-                    <h3>No more posts...</h3>
-                    <p>Looks like you've reached the end!</p>
-                </div>
-                <div class="col-md-1"><a class="glyphicon glyphicon-plus btn btn-info"></a></div>
             </div>
         </div>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
